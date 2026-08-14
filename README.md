@@ -1,12 +1,12 @@
 # Stress Test Agent
 
-Resilience testing and readiness scoring for AnarchI Technologies systems.
-
-Hardcoding freedom into the systems of tomorrow.
+An engineering demonstration by Alexander Gudde: resilience testing and evidence-based readiness scoring.
 
 ## Purpose
 
 Stress Test Agent helps break systems safely, summarize evidence, and decide whether a build is ready, needs review, or is blocked.
+
+This public project demonstrates Alexander's approach to failure analysis, bounded testing, and release decisions. Related product work lives at [AnarchI Technologies](https://github.com/AnarchI-Technologies-MAIN).
 
 ## What Changed
 
